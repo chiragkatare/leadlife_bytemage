@@ -2,12 +2,39 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import NotFound from "./pages/404.js";
+import Posts from "./pages/posts";
 import reportWebVitals from './reportWebVitals';
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+import "./index.css";
+import PostDetails from './pages/postDetails';
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element:  <App />,
+    errorElement: <NotFound />,
+  },
+  {
+    path: "posts",
+    element: <Posts />,
+  },
+  {
+    path: "post/:postId",
+    element: <PostDetails />,
+  },
+]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} >
+     
+    </RouterProvider>
+
   </React.StrictMode>
 );
 
