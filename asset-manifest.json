@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/leadlife_bytemage/static/css/main.700ace01.css",
+    "main.js": "/leadlife_bytemage/static/js/main.d9a892b3.js",
+    "static/js/787.8796c818.chunk.js": "/leadlife_bytemage/static/js/787.8796c818.chunk.js",
+    "static/media/fa-duotone-900.eot": "/leadlife_bytemage/static/media/fa-duotone-900.3612b07f260c6a5fede2.eot",
+    "static/media/fa-light-300.eot": "/leadlife_bytemage/static/media/fa-light-300.b80f29185f05100fe095.eot",
+    "static/media/fa-regular-400.eot": "/leadlife_bytemage/static/media/fa-regular-400.a233a6949df01cadf902.eot",
+    "static/media/fa-solid-900.eot": "/leadlife_bytemage/static/media/fa-solid-900.1bff3ec8f8094787950e.eot",
+    "static/media/fa-duotone-900.woff": "/leadlife_bytemage/static/media/fa-duotone-900.ab2b316a0cadef66cd31.woff",
+    "static/media/fa-light-300.woff": "/leadlife_bytemage/static/media/fa-light-300.915de20ded851f41271f.woff",
+    "static/media/fa-regular-400.woff": "/leadlife_bytemage/static/media/fa-regular-400.256404a7ed8fd8d8ff35.woff",
+    "static/media/fa-light-300.woff2": "/leadlife_bytemage/static/media/fa-light-300.f7db969c6b9beb2b09ef.woff2",
+    "static/media/fa-solid-900.woff": "/leadlife_bytemage/static/media/fa-solid-900.feb7e1c68ea83545cc22.woff",
+    "static/media/fa-duotone-900.woff2": "/leadlife_bytemage/static/media/fa-duotone-900.e01a142cb59073551042.woff2",
+    "static/media/fa-regular-400.woff2": "/leadlife_bytemage/static/media/fa-regular-400.489021ce1fd288c017d1.woff2",
+    "static/media/fa-solid-900.woff2": "/leadlife_bytemage/static/media/fa-solid-900.0ffda07f42c12e1f0362.woff2",
+    "static/media/fa-brands-400.eot": "/leadlife_bytemage/static/media/fa-brands-400.cd0c7b3371138d5aef72.eot",
+    "static/media/fa-brands-400.woff": "/leadlife_bytemage/static/media/fa-brands-400.3900b10ec601416c34f6.woff",
+    "static/media/fa-brands-400.woff2": "/leadlife_bytemage/static/media/fa-brands-400.acd68114ab18ec9a9253.woff2",
+    "static/media/GeneralSans-Semibold.woff": "/leadlife_bytemage/static/media/GeneralSans-Semibold.f7917c077957122793f6.woff",
+    "static/media/GeneralSans-Regular.woff": "/leadlife_bytemage/static/media/GeneralSans-Regular.c8cfd56b3d5c42904672.woff",
+    "static/media/GeneralSans-Medium.woff": "/leadlife_bytemage/static/media/GeneralSans-Medium.9ff9c3429a09b987bdec.woff",
+    "static/media/GeneralSans-Bold.woff": "/leadlife_bytemage/static/media/GeneralSans-Bold.4d82f8e0a57d7f8de158.woff",
+    "static/media/GeneralSans-Semibold.woff2": "/leadlife_bytemage/static/media/GeneralSans-Semibold.23103addec2ccc9cbc17.woff2",
+    "static/media/GeneralSans-Regular.woff2": "/leadlife_bytemage/static/media/GeneralSans-Regular.33c07568e483102927ef.woff2",
+    "static/media/GeneralSans-Medium.woff2": "/leadlife_bytemage/static/media/GeneralSans-Medium.1096c81555467a69cc16.woff2",
+    "static/media/GeneralSans-Bold.woff2": "/leadlife_bytemage/static/media/GeneralSans-Bold.64b1bf9966a3bbb94f5c.woff2",
+    "static/media/xmoze.eot?13031471": "/leadlife_bytemage/static/media/xmoze.9e565960b0908ee76aaf.eot",
+    "static/media/xmoze.woff?13031471": "/leadlife_bytemage/static/media/xmoze.a17c30467b3bcb5d8ad9.woff",
+    "static/media/xmoze.woff2?13031471": "/leadlife_bytemage/static/media/xmoze.919a13fa6003c94f1adc.woff2",
+    "static/media/logo.svg": "/leadlife_bytemage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/leadlife_bytemage/index.html",
+    "main.700ace01.css.map": "/leadlife_bytemage/static/css/main.700ace01.css.map",
+    "main.d9a892b3.js.map": "/leadlife_bytemage/static/js/main.d9a892b3.js.map",
+    "787.8796c818.chunk.js.map": "/leadlife_bytemage/static/js/787.8796c818.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700ace01.css",
+    "static/js/main.d9a892b3.js"
+  ]
+}
